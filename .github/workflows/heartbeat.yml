@@ -20,5 +20,5 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run heartbeat script
+      - name: Run heartbeat script Python
         run: python monitor.py
