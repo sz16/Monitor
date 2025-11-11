@@ -1,6 +1,6 @@
 import requests, json, time, uuid
 
-url = "https://chaosdiscord.onrender.com/"  # Đổi thành URL server của bạn
+url = "https://chaosdiscord.onrender.com/special"  # Đổi thành URL server của bạn
 
 import requests, json
 
